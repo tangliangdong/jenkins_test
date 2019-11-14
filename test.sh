@@ -1,2 +1,3 @@
-echo 'hello world'
+echo 'test.txt'
 date
+ls
